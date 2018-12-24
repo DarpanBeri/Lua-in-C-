@@ -12,8 +12,6 @@ extern "C"{
 
 int main(int argc, char* argv[]) {
 
-  cout << "Assignment #3-1, Darpan Beri, darpanberi.99@gmail.com"<<endl;
-
   lua_State *L = luaL_newstate(); /* Initialize */
 
   luaL_openlibs(L);

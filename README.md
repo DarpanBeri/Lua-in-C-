@@ -1,5 +1,5 @@
 ## Lua in C++
-**Note:** Lua in C++ is for a future prject which will be build upon this project. Lua 5.3.4 source folder is required to run this program.
+**Note:** This repo is a base for a future project. Lua 5.3.4 source folder is required to run this program.
 
 #### Files included:
     Prog3_1.cpp:
